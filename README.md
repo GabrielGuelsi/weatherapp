@@ -122,17 +122,12 @@ expo start --clear
 - Install Expo Go app
 - Allow location permissions when prompted
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
 - Weather data provided by [Open-Meteo API](https://open-meteo.com/)
-- Icons from [Ionicons](https://ionicons.com/)
-- Inspired by Apple Weather App
 
 ## Contact
 
-Your Name - [your-email@example.com]
-Project Link: [https://github.com/yourusername/weatherapp]
+Your Name - gabriel.guelsi@gmail.com
+Project Link: https://github.com/GabrielGuelsi/weatherapp
