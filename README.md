@@ -2,8 +2,7 @@
 
 A beautiful and responsive weather application built with React Native and Expo, featuring dynamic weather backgrounds and animations. The app works on both mobile devices and web browsers.
 
-![Weather App Screenshot]
-*(You can add screenshots of your app here)*
+
 
 ## Features
 
