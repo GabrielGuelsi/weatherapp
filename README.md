@@ -1,4 +1,5 @@
 # Weather App
+THIS PROJECT WAS CREATED BY: GABRIEL GUELSI SALES 2023345 AND JOAO GABRIEL PEREIRA 2023328
 
 A beautiful and responsive weather application built with React Native and Expo, featuring dynamic weather backgrounds and animations. The app works on both mobile devices and web browsers.
 
